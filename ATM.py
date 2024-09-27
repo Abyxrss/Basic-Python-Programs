@@ -78,5 +78,5 @@ while chances >= 0:
         chances = chances - 1
 
         if chances == 0:
-            print("Calling the Police...\n")
+            print("Your card has been locked. Please contact the bank\n")
             break
